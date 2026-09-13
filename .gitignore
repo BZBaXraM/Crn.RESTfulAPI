@@ -1,0 +1,17 @@
+## .NET
+bin/
+obj/
+*.user
+
+## Rider / VS / VS Code
+.idea/
+.vs/
+.vscode/
+
+## Docker
+.env
+.env.*
+!.env.example
+
+## OS cruft
+.DS_Store
