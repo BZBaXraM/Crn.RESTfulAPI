@@ -146,4 +146,3 @@ tests/
 docker-compose.yml       API + SQL Server, for local/demo use
 src/API/Dockerfile       Multi-stage build for the API image
 ```
-# Crn.RESTfulAPI
